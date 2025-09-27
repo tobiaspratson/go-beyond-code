@@ -1,0 +1,24 @@
+# Logarithmic and Exponential Functions
+
+**Source**: chapter4 (line 1200)
+
+## Description
+
+This program is from the Go Beyond golang reference book.
+
+## Usage
+
+```bash
+# Run the program
+go run main.go
+
+# Build the program
+go build -o ch04_logarithmic_and_exponential_functions main.go
+
+# Run the built executable
+./ch04_logarithmic_and_exponential_functions
+```
+
+## Original Context
+
+Logarithmic and Exponential Functions

@@ -1,0 +1,3 @@
+module ch17_context_propagation_with_error_handling
+
+go 1.21

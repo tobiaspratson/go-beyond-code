@@ -1,0 +1,3 @@
+module ch14_example_shows_a_circuit_breaker_pattern_using_sele
+
+go 1.21

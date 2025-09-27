@@ -1,0 +1,3 @@
+module ch15_working_with_interface_and_reflection
+
+go 1.21

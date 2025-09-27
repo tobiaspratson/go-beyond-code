@@ -1,0 +1,3 @@
+module ch04_mathematical_constants_and_special_values
+
+go 1.21

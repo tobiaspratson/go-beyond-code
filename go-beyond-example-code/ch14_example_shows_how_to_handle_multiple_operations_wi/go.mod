@@ -1,0 +1,3 @@
+module ch14_example_shows_how_to_handle_multiple_operations_wi
+
+go 1.21

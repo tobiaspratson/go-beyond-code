@@ -1,0 +1,3 @@
+module ch16_2_resource_pool_with_condition_variables
+
+go 1.21

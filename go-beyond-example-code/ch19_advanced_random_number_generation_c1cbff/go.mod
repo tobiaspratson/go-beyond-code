@@ -1,0 +1,3 @@
+module ch19_advanced_random_number_generation_c1cbff
+
+go 1.21

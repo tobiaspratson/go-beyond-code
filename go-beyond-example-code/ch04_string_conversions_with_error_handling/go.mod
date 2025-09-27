@@ -1,0 +1,3 @@
+module ch04_string_conversions_with_error_handling
+
+go 1.21

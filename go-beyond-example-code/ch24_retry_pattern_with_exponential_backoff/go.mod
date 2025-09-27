@@ -1,0 +1,3 @@
+module ch24_retry_pattern_with_exponential_backoff
+
+go 1.21

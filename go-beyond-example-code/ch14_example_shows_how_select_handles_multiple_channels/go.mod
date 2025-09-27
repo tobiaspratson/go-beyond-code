@@ -1,0 +1,3 @@
+module ch14_example_shows_how_select_handles_multiple_channels
+
+go 1.21

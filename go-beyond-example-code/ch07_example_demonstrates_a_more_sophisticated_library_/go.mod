@@ -1,0 +1,3 @@
+module ch07_example_demonstrates_a_more_sophisticated_library_
+
+go 1.21

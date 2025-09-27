@@ -1,0 +1,3 @@
+module ch08_advanced_file_system_with_pointers_and_error_handl
+
+go 1.21

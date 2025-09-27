@@ -1,0 +1,3 @@
+module ch05_performance_considerations_for_nested_loops
+
+go 1.21

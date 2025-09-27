@@ -1,0 +1,3 @@
+module ch14_example_demonstrates_the_basic_timeout_pattern_usi
+
+go 1.21

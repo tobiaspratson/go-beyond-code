@@ -1,0 +1,3 @@
+module ch20_method_1_ioutilreadfile_simple_but_memory_intensiv
+
+go 1.21

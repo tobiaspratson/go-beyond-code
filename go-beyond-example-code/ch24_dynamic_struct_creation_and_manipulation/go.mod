@@ -1,0 +1,3 @@
+module ch24_dynamic_struct_creation_and_manipulation
+
+go 1.21

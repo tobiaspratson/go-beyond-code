@@ -1,0 +1,3 @@
+module ch14_example_demonstrates_how_to_process_multiple_chann
+
+go 1.21

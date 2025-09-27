@@ -1,0 +1,3 @@
+module ch17_advanced_database_operations_with_context
+
+go 1.21

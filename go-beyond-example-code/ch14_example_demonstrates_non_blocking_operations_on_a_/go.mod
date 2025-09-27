@@ -1,0 +1,3 @@
+module ch14_example_demonstrates_non_blocking_operations_on_a_
+
+go 1.21

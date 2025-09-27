@@ -1,0 +1,3 @@
+module ch14_example_combines_non_blocking_operations_with_time
+
+go 1.21

@@ -1,0 +1,3 @@
+module ch11_advanced_di_container_with_factory_functions
+
+go 1.21

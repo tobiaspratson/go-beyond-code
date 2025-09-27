@@ -1,0 +1,3 @@
+module ch14_example_shows_how_to_create_helper_functions_for_n
+
+go 1.21

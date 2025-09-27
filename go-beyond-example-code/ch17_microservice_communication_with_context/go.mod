@@ -1,0 +1,3 @@
+module ch17_microservice_communication_with_context
+
+go 1.21

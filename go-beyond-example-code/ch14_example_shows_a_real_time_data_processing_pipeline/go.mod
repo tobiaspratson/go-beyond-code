@@ -1,0 +1,3 @@
+module ch14_example_shows_a_real_time_data_processing_pipeline
+
+go 1.21

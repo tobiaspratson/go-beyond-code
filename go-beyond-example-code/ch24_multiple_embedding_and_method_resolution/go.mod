@@ -1,0 +1,3 @@
+module ch24_multiple_embedding_and_method_resolution
+
+go 1.21

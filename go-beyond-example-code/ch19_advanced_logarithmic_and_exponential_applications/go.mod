@@ -1,0 +1,3 @@
+module ch19_advanced_logarithmic_and_exponential_applications
+
+go 1.21

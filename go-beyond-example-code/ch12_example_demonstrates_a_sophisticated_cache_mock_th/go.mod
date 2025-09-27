@@ -1,0 +1,3 @@
+module ch12_example_demonstrates_a_sophisticated_cache_mock_th
+
+go 1.21

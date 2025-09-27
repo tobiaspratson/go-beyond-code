@@ -1,0 +1,3 @@
+module ch12_example_shows_how_to_test_a_user_service_with_vari
+
+go 1.21

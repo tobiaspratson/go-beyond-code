@@ -1,0 +1,3 @@
+module ch14_example_shows_how_to_monitor_multiple_channels_and
+
+go 1.21

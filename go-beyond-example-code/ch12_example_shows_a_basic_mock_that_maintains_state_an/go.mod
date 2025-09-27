@@ -1,0 +1,3 @@
+module ch12_example_shows_a_basic_mock_that_maintains_state_an
+
+go 1.21

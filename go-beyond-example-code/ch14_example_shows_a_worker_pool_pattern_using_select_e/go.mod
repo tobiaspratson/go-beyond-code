@@ -1,0 +1,3 @@
+module ch14_example_shows_a_worker_pool_pattern_using_select_e
+
+go 1.21

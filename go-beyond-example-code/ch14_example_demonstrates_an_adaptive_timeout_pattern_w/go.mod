@@ -1,0 +1,3 @@
+module ch14_example_demonstrates_an_adaptive_timeout_pattern_w
+
+go 1.21

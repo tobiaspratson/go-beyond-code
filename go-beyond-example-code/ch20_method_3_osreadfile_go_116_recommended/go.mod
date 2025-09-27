@@ -1,0 +1,3 @@
+module ch20_method_3_osreadfile_go_116_recommended
+
+go 1.21

@@ -1,0 +1,3 @@
+module ch15_example_that_shows_different_ways_to_access_struct
+
+go 1.21

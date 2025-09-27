@@ -1,0 +1,3 @@
+module ch14_example_shows_how_to_dynamically_process_messages_
+
+go 1.21

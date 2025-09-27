@@ -1,0 +1,3 @@
+module ch14_example_demonstrates_the_fan_out_pattern_where_one
+
+go 1.21

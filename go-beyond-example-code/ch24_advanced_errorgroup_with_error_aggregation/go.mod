@@ -1,0 +1,3 @@
+module ch24_advanced_errorgroup_with_error_aggregation
+
+go 1.21

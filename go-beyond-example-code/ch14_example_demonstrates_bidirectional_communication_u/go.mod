@@ -1,0 +1,3 @@
+module ch14_example_demonstrates_bidirectional_communication_u
+
+go 1.21

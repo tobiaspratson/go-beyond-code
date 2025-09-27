@@ -1,0 +1,3 @@
+module ch24_property_based_testing_with_custom_generators
+
+go 1.21
