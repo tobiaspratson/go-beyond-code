@@ -1,4 +1,4 @@
-# Go Example Programs
+# Go Beyond: Executable Code
 
 This repo contains executable Go programs from the [Go Beyond: Mastering the Art of Go Programming: A Comprehensive Practical Guide to Golang Development](https://www.amazon.com/dp/B0FT1K7KSJ) book.
 
