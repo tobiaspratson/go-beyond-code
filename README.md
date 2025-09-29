@@ -1,6 +1,6 @@
 # Go Example Programs
 
-This repo contains executable Go programs from the Go Beyond reference book.
+This repo contains executable Go programs from the [Go Beyond reference book](https://www.amazon.com/dp/B0FT1K7KSJ).
 
 ## Programs by Chapter
 
